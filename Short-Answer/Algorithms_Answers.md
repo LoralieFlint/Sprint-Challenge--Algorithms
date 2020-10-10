@@ -7,7 +7,9 @@ a) Linear run time O(n)
    - As the size of the input increases the number or space used will grow at a slightly slower rate. :)
 
 
-b) 
+b) Linearithmic run time O(n log n)
+    - I chose Linearithmic because of the range of the while loop increasing the amount of input increasing the amount of runtime.
+    - As the size of the input increases the runtime or space used will grow at a slightly faster rate this solution is usable but might not be ideal. :|
 
 
 c)
