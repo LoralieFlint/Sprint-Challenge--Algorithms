@@ -12,8 +12,18 @@ b) Linearithmic run time O(n log n)
     - As the size of the input increases the runtime or space used will grow at a slightly faster rate this solution is usable but might not be ideal. :|
 
 
-c)
+c) Linear O(n) -- with recursion
+    - There will still only be n operations 
+    - As the size of the input increases the runtime or space used will grow at the same rate the solution is generally acceptable :)
 
 ## Exercise II
+define a function taking in n as params 
+create a variable that will store the safe values 
+loop through range of n
+see if the egg breaks
+if the egg doesnt break, increment our variable
+if the egg does break, exit the loop
+return our variable
 
-
+the runtime for this would be 
+Linear O(n)
